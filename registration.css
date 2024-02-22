@@ -1,0 +1,58 @@
+.home{
+    text-align: center;
+    background-image:url("https://img.freepik.com/premium-photo/fall-yellow-orange-maple-leaves-blue-sky-defocused-abstract-background_257123-5530.jpg?w=740");
+    height: 100vh;
+    background-size: cover;
+}
+h1{
+    color:darkblue;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 40vh;
+}
+.button1{
+    height: 50px;
+    width: 90px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left: 45vw;
+    margin-top: 10vh;
+}
+.page2{
+    height: 100vh;
+    background-image: url("https://img.freepik.com/free-vector/elegant-soft-yellow-watercolor-texture-background-vector_1055-12410.jpg?w=826&t=st=1707626867~exp=1707627467~hmac=1ba778b7ca8bcb2d6613e0e0ac5e7620252963950e0192689ae58485f1d51ce8");
+    background-size: cover;
+}
+label{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+input{
+    font-size:15px;
+    color: black;
+    font-weight: 300;
+    width: 100vw;
+    height: 30px;
+    margin: 5px;
+    box-sizing: border-box; 
+    border: 1px solid #585353; 
+    border-radius: 5px; 
+}
+.button2{
+    box-sizing: border-box; 
+    border-radius: 5px;
+    margin-left: 40vw;
+    margin-right: 40vw;
+    padding:1px;
+    margin: 0px;
+    width:100vw;
+    background-color: rgb(216, 161, 98);
+    font-size: 18px;
+    color: rgb(4, 4, 4);
+    font-weight: bold;
+}
+    p{
+    margin: 1px;
+}
